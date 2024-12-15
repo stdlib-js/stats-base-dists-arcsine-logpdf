@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`0e887d5`](https://github.com/stdlib-js/stdlib/commit/0e887d567344c8a31a382266389022ec26f2bcca) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
+-   [`e450426`](https://github.com/stdlib-js/stdlib/commit/e450426813957ec4de5e31434edb969741db7c94) - **bench:** add missing native suffix _(by Philipp Burckhardt)_
 -   [`b8c41df`](https://github.com/stdlib-js/stdlib/commit/b8c41df78cd2cdc9cd3c3c6b223759d32f4f6e14) - **docs:** update related packages sections [(#3915)](https://github.com/stdlib-js/stdlib/pull/3915) _(by stdlib-bot)_
 -   [`1d283b5`](https://github.com/stdlib-js/stdlib/commit/1d283b5f174dc2ec7770bd7be861cdb2f146027d) - **feat:** add C implementation of `stats/base/dists/arcsine/logpdf` [(#3454)](https://github.com/stdlib-js/stdlib/pull/3454) _(by Vinit Pandit, Philipp Burckhardt)_
 
