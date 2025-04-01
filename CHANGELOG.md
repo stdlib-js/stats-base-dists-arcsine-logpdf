@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-04-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`e3edfba`](https://github.com/stdlib-js/stdlib/commit/e3edfbadf42a40979d3ed9e35a2e736b62af241d) - **docs:** fix interpolation of decimal values [(#6259)](https://github.com/stdlib-js/stdlib/pull/6259) _(by Karan Anand)_
 -   [`6ff59dd`](https://github.com/stdlib-js/stdlib/commit/6ff59dd9c1a20e141232e8081ca8606c87c73989) - **docs:** replace manual `for` loop in examples [(#6249)](https://github.com/stdlib-js/stdlib/pull/6249) _(by Karan Anand)_
 -   [`fdd6251`](https://github.com/stdlib-js/stdlib/commit/fdd6251ca208c5aceff5d6a2929788ed2cfbc2d6) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4798)](https://github.com/stdlib-js/stdlib/pull/4798) _(by Karan Anand)_
