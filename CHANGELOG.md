@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-05)
+## Unreleased (2026-01-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`111fc36`](https://github.com/stdlib-js/stdlib/commit/111fc36035d3cc5eca9cd60a26c82f030636d583) - **bench:** update random value generation for `stats/base/dists/arcsine` [(#9953)](https://github.com/stdlib-js/stdlib/pull/9953) _(by Lokesh Ranjan)_
 -   [`c7b5670`](https://github.com/stdlib-js/stdlib/commit/c7b567035c988493c48a6f305b535d6510e72501) - **chore:** fix EditorConfig lint errors [(#9528)](https://github.com/stdlib-js/stdlib/pull/9528) _(by Shreelaxmi Hegde)_
 -   [`d61ac9c`](https://github.com/stdlib-js/stdlib/commit/d61ac9c7ba00677bfde2c2fbc039db20ef9b2ce2) - **docs:** fix README sections _(by Athan Reines)_
 -   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
@@ -62,10 +63,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 -   Shreelaxmi Hegde
 -   Vinit Pandit
