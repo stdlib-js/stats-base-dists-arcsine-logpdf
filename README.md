@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> [Arcsine][arcsine-distribution] distribution logarithm of [probability density function][pdf] (PDF).
+> [Arcsine][arcsine-distribution] distribution natural logarithm of [probability density function][pdf] (PDF).
 
 <section class="intro">
 
@@ -88,7 +88,7 @@ var logpdf = require( '@stdlib/stats-base-dists-arcsine-logpdf' );
 
 #### logpdf( x, a, b )
 
-Evaluates the logarithm of the [probability density function][pdf] (PDF) for an [arcsine][arcsine-distribution] distribution with parameters `a` (minimum support) and `b` (maximum support).
+Evaluates the natural logarithm of the [probability density function][pdf] (PDF) for an [arcsine][arcsine-distribution] distribution with parameters `a` (minimum support) and `b` (maximum support).
 
 ```javascript
 var y = logpdf( 2.0, 0.0, 4.0 );
@@ -204,7 +204,7 @@ logEachMap( 'x: %0.4f, a: %0.4f, b: %0.4f, ln(f(x;a,b)): %0.4f', x, a, b, logpdf
 
 #### stdlib_base_dists_arcsine_logpdf( x, a, b )
 
-Evaluates the logarithm of the probability density function (PDF) for an arcsine distribution.
+Evaluates the natural logarithm of the probability density function (PDF) for an arcsine distribution.
 
 ```c
 double out = stdlib_base_dists_arcsine_logpdf( 2.0, 0.0, 4.0 );
